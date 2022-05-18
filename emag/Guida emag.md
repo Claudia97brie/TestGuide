@@ -141,9 +141,11 @@ In questo modo il viaggio è stato creato e TIR Horizon potrà ricevere l’info
 
 **N.B.: se non viene premuto il tasto salva, i bancali risulteranno non sparati.**
 
-Ricezione Viaggio da APP
+**Ricezione Viaggio da APP**
+
 Per fare in modo che il viaggio appena creato tramite la app venga importato sul PVI, occorre recarsi sul pulsante “Assegna Viaggi”, premere sul menu a tendina “Pianifica” e cliccare su “Ricevi Creazioni da App”.
- 
+
+![ricevicreazioni](https://user-images.githubusercontent.com/105659714/168988522-b309ef17-4f36-44fa-bc2e-957f10924454.png) 
 
 In questo modo verrà creato un box con le spedizioni selezionate dal magazzino. Questo box è editabile e può essere modificato a seconda delle esigenze (cambio targa/autista; rimozione o aggiunta ordine; cambio data). 
 Premendo sul tasto “Abbina”, il viaggio viene creato e può essere stampato il borderau. 
