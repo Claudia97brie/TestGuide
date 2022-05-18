@@ -51,17 +51,17 @@ a.	Sempre sul modulo PVI, abilitare la funzione “Gestione App Magazzino”. Pr
 ![abilitare gestioneapp1](https://user-images.githubusercontent.com/105659714/168985548-d7ad8b55-7cd7-4941-8abe-58cbc3db127e.png)
 
  
-**N.B.: assicurarsi che tutti gli utenti che lavorano sul PVI abbiano chiuso e riaperto il modulo. **
+**N.B.: assicurarsi che tutti gli utenti che lavorano sul PVI abbiano chiuso e riaperto il modulo.**
 
-**5)	Inserire conferma stampando l’etichetta  **
+**5)	Inserire conferma stampando l'etichetta**
 
 a.	Tutti gli ordini che verranno gestiti tramite APP richiedono che venga stampata l’etichetta da apporre sul bancale corrispondente. Una volta inserita la conferma e salvata, premere il tasto “Eti” e selezionare il tipo di stampa richiesta.  
 
 ![confermaeti](https://user-images.githubusercontent.com/105659714/168986240-0caa6d67-f827-4763-bf44-75fc6ae68d32.png)
 
-**N.B.: se non viene stampata l’etichetta, l’ordine non viene gestito dalla APP  **
+**N.B.: se non viene stampata l’etichetta, l’ordine non viene gestito dalla APP**
 
-6)	Movimentare viaggi dal PVI
+**6)	Movimentare viaggi dal PVI**
 
 a.	A questo punto è possibile creare un viaggio dal PVI. Si può utilizzare l’abbinamento standard, oppure la modalità assegna viaggi.
 
@@ -92,7 +92,7 @@ b.	Creazione – permette di creare un nuovo viaggio direttamente dalla app
 
  
 
-**Modalità Scansione  **
+**Modalità Scansione**
 
 La funzione “Scansione” viene utilizzata per scansionare in entrata e in uscita i bancali in transito presso il magazzino selezionato. 
 
