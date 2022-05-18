@@ -13,30 +13,44 @@ Una volta che un viaggio è chiuso attraverso la app, gli esiti vengono direttam
 È consigliabile effettuare dei test di funzionamento, ricezione e chiusura viaggi prima di passare all’utilizzo della app in produzione. Per fare ciò, è possibile utilizzare la versione della app per Windows. 
 
 La seguente guida è composta da una prima parte puramente tecnica ed un seconda parte nella quale viene descritto il funzionamento della app. 
-Se vi occorre esclusivamente conoscere il funzionamento della App, potete saltare il paragrafo “Operazioni tecniche preliminari”. 
+***Se vi occorre esclusivamente conoscere il funzionamento della App, potete saltare il paragrafo “Operazioni tecniche preliminari”.*** 
 
-N.B.: l’app funziona ESCLUSIVAMENTE su terminali Android (che abbiano preinstallato il Play Store) che sono connessi alla rete. È quindi ESTREMAMENTE consigliato utilizzare un terminale che abbia sia connessione Wi-Fi che connessione dati (attraverso una sim). I test condotti sono stati effettuati con un terminale Zebra TC21.
+***N.B.: l’app funziona ESCLUSIVAMENTE su terminali Android (che abbiano preinstallato il Play Store) che sono connessi alla rete.***  È quindi ESTREMAMENTE consigliato utilizzare un terminale che abbia sia connessione Wi-Fi che connessione dati (attraverso una sim). I test condotti sono stati effettuati con un terminale Zebra TC21.
 
-Operazioni tecniche preliminari
+# Operazioni tecniche preliminari
+
 Affinchè l’applicazione funzioni correttamente è necessario svolgere delle operazioni preliminari che permettano la corretta attivazione delle funzionalità.
-1)	Download APP
+
+**1)	Download APP**
+
 a.	Occorre scaricare la app su uno smartphone o terminale Android che abbia almeno la versione 6.0. L’applicazione è presente sul Play Store e vengono costantemente rilasciati aggiornamenti; pertanto, è necessario assicurarsi di avere sempre l’ultima versione disponibile. 
-2)	Impostare Endpoint
+
+**2)	Impostare Endpoint**
+
 Una volta scaricata la app, occorre impostare l’endpoint che permette la sincronizzazione con il database:  
+
+![endpoint2](https://user-images.githubusercontent.com/105659714/168862217-31b6c546-6081-4a76-8866-0939c13ad5a6.png)
+
+
 I link di connessione vengono rilasciati direttamente dalla software house una volta stipulato il contratto. Il cliente deve custodire i parametri di connessione oppure salvare il QR-code. Ogni terminale o smartphone deve essere configurato singolarmente. 
-3)	Abilitare Magazzini 
+
+**3)	Abilitare Magazzini**
+
 a.	Tornando su TIR Horizon, occorre abilitare i magazzini che devono essere di competenza della app. Per poterlo fare, aprire il modulo PVI, cliccare sul tasto “punti” e flaggare sulla colonna “IsGestitoAPP” i magazzini che si desidera gestire tramite App. Salvare premendo il tasto “Aggiorna in App”. 
   
+![abilitare mag](https://user-images.githubusercontent.com/105659714/168983903-22a56dd1-67d1-47f9-ae23-3f2b38736bd6.png)
+![abilitare mag2](https://user-images.githubusercontent.com/105659714/168983942-e6bd7bd6-09f0-42ab-b96a-396fac8051cc.png)
 
- 
 N.B.: a questo punto i punti, i mezzi e gli autisti vengono sincronizzati con la app. Potrebbe volerci qualche minuto affinchè la sincronizzazione sia completata. 
 
 
+**4)	Abilitare Gestione App**
 
-
-
-4)	Abilitare Gestione App
 a.	Sempre sul modulo PVI, abilitare la funzione “Gestione App Magazzino”. Premere su salva, chiudere e riaprire il PVI.  Questa funzione permette l’invio dei viaggi sulla App, pertanto è di fondamentale importanza che venga abilitata prima dell’inizio della gestione con la app Warehouse Horizon. 
+
+
+
+
  
 N.B.: assicurarsi che tutti gli utenti che lavorano sul PVI abbiano chiuso e riaperto il modulo. 
 
